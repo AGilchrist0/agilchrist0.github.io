@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/aarongilchrist
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://agilchrist0.github.io
+  * I am aarongilchrist (https://keybase.io/aarongilchrist) on keybase.
+  * I have a public key with fingerprint 41F0 1938 C09B C859 7A94  2A2D 5FE5 0D35 D434 C63D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f1efc28e74c901d030f1cb2eb93b77740bccf9cc2abdc34cb41db493b21cdd6e0a",
+            "fingerprint": "41f01938c09bc8597a942a2d5fe50d35d434c63d",
+            "host": "keybase.io",
+            "key_id": "5fe50d35d434c63d",
+            "kid": "01019d07f6f55e51cfabd78e19bfed380da115a8aebc44d6f84ecabe020fde69f5dc0a",
+            "uid": "fa65f3d217543cc65a792b39aca91219",
+            "username": "aarongilchrist"
+        },
+        "service": {
+            "hostname": "agilchrist0.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473965063,
+    "expire_in": 157680000,
+    "prev": "cd48fd82cf4c0c94eeecbe42179ed2437a4ce10a35c9bb31557b7aef63d97144",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMN2AnicbZJ7UFRVHMd3ASUwEqIJEZmcW5jBwtzn3r2YsDxkwng1Uik5s917zrnL
+5bF3270sAe4UDTCNzhCYOTBmI9iiYCGONM04MaYgaA/IoDKwIUUcKQbiEVQgdpai
+vzr/nDnnfH+f8/3+zukJ8tUF6i3jQdwQ27tT/+WlUyW6l4cn/SsISYVlRHwFUYhW
+J1QEkVOzFCqQiCdIiiZlCsmANiGeBQJJQZLBO0CikSQwEs/zLCkBIAsA0KIEAcMC
+iaWgxOJDmgIQGhEpEgZCVmxW5LA7FJuGsSwlk5TAmAApSMDECbwosLRIQ05GHAkZ
+DrKYY2QgLsxXnd4KbE4SnShOUfEeXlhW7f2Pfs035kOSl40yxyGOAjI2x5sQJUgy
+goyJhCJFcaJJRBJgWWiUTSwCooRIHBcioyBzEKz6LlnFyaKRkxlIUzzHMgAYOZEX
+aIkRRCAKFE0JXqETOWxiMcJqUXSoNqtSBPIdCjbvNhD4zKUA5G2vN8+a7j8NGWdV
+tPwS6Z94doeqqUAtwpJ8TbM7470IrczurSlFkuVfmkVSbBC3FVe4kMOpqDYinsJK
+oClePMXyjGDkSCNjINDrdsWBLIpXwfFGE4mH9x7kwkgAWZMMTTSQWUACgUUIAQmx
+OKyAIM0yvMgCRJEiwwFBkhiK43iJF5GM+y3wFMsS3nyv2VTMxlBNtGKmU7HaRK3E
+gQj35Uv7/XT6QN36dT7e/6YLDAhe+4W93cG60ys3fOSAt6W+8nsXktrmNroPXssK
+vOVemS53Pdp2/4R+03JVXG5A5EXfH5aXWhde/Hhz2tnElG6kTUQGZs8ce/ZzHyUn
+8cyd1mTzSHj09zmX90wtD5HZcWlzR3YcbOrtH3N4nr8bpu287VFb/mh54n7bM6G+
+RYbGW3P2sNNdSY+H8+/8uJhUOfBw6hQPOs3n/Nzf1YccGa8xqxGNSZtDrvtvNfeN
+zFcR87UbhgqejoaPrDiTR5obtrT4trjajzdPrayTwj8svgrHE1sdZPm2zoKaiFfv
+jmY3d3X8Xjjb3j5cY447vFB/fP63a8ths5UfZH1GUnpdbFPWsZBXfMJ2pZxvNiT/
+4trXN5ZQql0f9P8iNOevpYK9+2MmI3cvvdU4nDU9UbSv+rBZfdAWWnvosSv1279J
+rLr9VWXn+54rsvXBQ++Gf5uZi9/kk/TnSqYztjdEd0SM2ZL483tGZ6rHZ/M7+vN6
+//RV4vTp/cF7LXTzzVJ+d3LIwpnUvOgUTwDtytZvnXGPWE98Wnd2IHZQbVrMyDw6
+331jfehJou7AjI7PytiU1JA5YzgZcxQWXyiI+rorN21w3nzALyZBt1hjzvNskX46
+tzHDs2R8czrovZt3rPeGogYuaobJq9lpy11vaCFRluS6XdVl6S/0+AU2+pCx2mjC
+Uz/XbvjoyZeGd8gT205VVKX2/Po3MrrG2A==
+=cP/z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aarongilchrist
+
+==================================================================
