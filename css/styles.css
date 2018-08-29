@@ -1,0 +1,66 @@
+@import 'https://fonts.googleapis.com/css?family=Poiret+One';
+body  {
+  font-family: 'Poiret One', cursive;
+  font-size: 2em;
+  padding: 0;
+}
+h1  {
+  font-family: 'Poiret One', cursive;
+  text-align: left;
+}
+h2  {
+  text-align: center;
+  font-size: 3rem;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: grey;
+}
+.small_logo {
+  height: 1rem;
+  padding-bottom: 0;
+}
+.instagram  {
+  height: 10rem;
+}
+nav {
+  border-bottom: 0.1vw solid lightgrey;
+  font-family: 'Poiret One', cursive;
+}
+.navul  {
+  margin: 0;
+  padding: 0;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  text-decoration: none;
+  vertical-align: middle;
+  position: relative;
+  font-weight: bold;
+}
+.navicon  {
+  list-style-type: none;
+  display: inline;
+  position: relative;
+  padding: 1vw;
+}
+.nava   {
+  display: inline-block;
+}
+.title  {
+  font-size: 2vw;
+}
+.menu  {
+  font-size: 1vw;
+  float: right;
+}
+.mobile {
+  display: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .mobile {
+    display: inline;
+}
